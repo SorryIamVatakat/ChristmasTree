@@ -23,7 +23,7 @@ public class ChristmasTree {
             for (int j2 = 0; j2 < 6; j2++) {
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println();//this leg is very baaad :(
 
 
         }
